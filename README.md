@@ -1,5 +1,7 @@
 # AI_and_Drug_Discovery_Course_2026
 
+**Assignment 1 (First Trial)**
+
 **Selected target name:** Prostate-specific antigen (KLK3)
 
 **Number of bioactivity records:** 7
